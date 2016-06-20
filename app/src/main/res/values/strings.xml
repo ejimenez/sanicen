@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Sanicen</string>
+    <string name="app_title">SANICEN</string>
+    <string name="app_description">Información y localización de centros sanitarios en España</string>
+    <string name="source">Datos procedentes de http://datos.gob.es/.</string>
+    <string name="locations">Localizaciones generadas pueden ser imprecisas.</string>
+    <string name="action_settings">Settings</string>
+    <string name="ccaa">COMUNIDADES AUTÓNOMAS</string>
+    <string name="provinces">PROVINCIAS</string>
+    <string name="municipalties">MUNICIPIOS</string>
+    <string name="center_types">TIPOS DE CENTROS</string>
+    <string name="speciality">FINALIDAD ASISTENCIAL</string>
+    <string name="centers">Centros</string>
+    <string name="code_ap">AP</string>
+    <string name="code_ho">HO</string>
+    <string name="code_au">AU</string>
+    <string name="start_search">Comenzar búsqueda</string>
+    <string name="btn_next">Siguiente</string>
+    <string name="no_results">No se han encontrado resultados</string>
+    <string name="toast_location">No se ha podido determinar su ubicación.</string>
+    <string name="more_info">Ver detalle</string>
+    <string name="permission_rationale_location">No se ha podido obtener su ubicación, puede habilitar el permiso desde Ajustes &gt; Aplicaciones &gt; \'Sanicen\'.</string>
+    <string name="location_permission_denied">Esta acción requiere permiso de localización para mostrar su ubicación. Por favor realice la acción de nuevo y permita el acceso.\nSi el permiso ha sido permanentemente denegado, puedo habilitarlo desde Ajustes &gt; Aplicaciones &gt; \'Sanicen\'.</string>
+    <string name="permission_required_toast">Permiso de localización es requerido para esta acción.</string>
+</resources>
+
