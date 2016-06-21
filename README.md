@@ -2,5 +2,4 @@
 
 Información y localización de centros sanitarios en España.
 
-
-![](/captures/main.png =x250)
+![](/captures/main.png?raw=true)
